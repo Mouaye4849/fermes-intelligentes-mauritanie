@@ -3,7 +3,7 @@
 
 **Rapport court de projet**
 
----
+
 
 ## 1. Introduction
 
@@ -12,7 +12,7 @@ L’agriculture traditionnelle devient de plus en plus difficile dans les zones 
 
 Ce rapport présente une idée innovante intitulée **« Fermes intelligentes du désert »**, visant à transformer les régions arides en espaces de production alimentaire grâce à la technologie, à l’énergie solaire et à l’intelligence artificielle.
 
----
+
 
 ## 2. Concept des fermes intelligentes
 
@@ -31,7 +31,7 @@ Ce modèle permet :
 - une limitation du gaspillage,
 - une production durable.
 
----
+
 
 ## 3. Technologies utilisées
 
